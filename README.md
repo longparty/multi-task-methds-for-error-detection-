@@ -1,2 +1,2 @@
 # multi-task-methds-for-error-detection-
-It is different multi-task systems for error detection task. 
+This repository lists some multi-task methods for a syntax error detection task.
